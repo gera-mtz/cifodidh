@@ -75,6 +75,10 @@ h2{
     color: #767778
 }
 
+.img-center{
+	text-align: center;
+}
+
 footer{
 	width:100%;
 	background-color: #676f77;
